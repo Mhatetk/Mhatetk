@@ -1,3 +1,5 @@
+<img align="right" src="https://count.getloli.com/get/@:Mhatetk?theme=moebooru">
+
 ## 一只不起眼的作者—Mhatetk
 
 一个计算机爱好者，欢迎光临我的Github首页！🍧🍧🍧
