@@ -6,7 +6,7 @@
 
 <div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
 
-- <a href="https://www.mhatetk.top"><img height="25" width="25" src="https://www.Mhatetk.top/img/favicon.png"></a>：个人网站
+- <a href="https://www.mhatetk.top"><img height="25" width="25" src="https://tuchuang.voooe.cn/images/2022/12/30/favicon.png"></a>：个人网站
 - <a href="https://space.bilibili.com/1635939656"><img height="25" width="25" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页
 
 ### 开源项目
